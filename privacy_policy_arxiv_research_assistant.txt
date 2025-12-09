@@ -1,0 +1,13 @@
+1. Data Collection & Usage:
+"This GPT Action processes your search queries, uploaded documents, and conversation history solely to provide research assistance (e.g., summarizing papers, finding articles on arXiv)."
+"Your input data is used to generate responses but is not used to train OpenAI's foundational models unless you explicitly opt-in to data sharing for model improvement (if that feature is enabled)."
+"We do not collect sensitive personal information (like SSNs, financial details) and advise against inputting such data." 
+2. Data Sharing & Third Parties:
+"Your data is kept within the OpenAI ecosystem. If an Action uses an external API (like fetching arXiv directly), data is sent only to that service to fulfill your request."
+"We do not sell your data or share your specific queries/content with unrelated third parties for marketing." 
+3. Data Retention & Security:
+"User inputs and conversations are retained according to OpenAI's general policies, typically for a limited period (e.g., 30 days for non-Plus users) for system monitoring, unless you're a paid user with different settings."
+"You can delete your chat history and data via your OpenAI account settings, which removes it from active use." 
+4. User Control & Rights:
+"You control your data. You can clear conversations, turn off chat history, and manage data sharing settings in your OpenAI account."
+"You are responsible for the content you input and verify the accuracy/appropriateness of AI-generated summaries/content." 
